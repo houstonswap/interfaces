@@ -1,5 +1,5 @@
 /// Concentrated Liquidity MM Router interface
-module HoustonSwap::clmm_router {
+module HoustonPeriphery::clmm_router {
 
     use aptos_framework::coin::{Self, Coin};
     

@@ -1,9 +1,9 @@
 [package]
-name = "HoustonSwap"
+name = "HoustonPeriphery"
 version = "1.0.0"
 
 [addresses]
-HoustonSwap = "0x7ab72b249ec24f76fe66b6de19dcee1e3d3361db5c2cccfaa48ea8659060a1bd"
+HoustonPeriphery = "0x7ab72b249ec24f76fe66b6de19dcee1e3d3361db5c2cccfaa48ea8659060a1bd"
 
 [dependencies]
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "5b0ae7fbea9623e4042c2ef288801a6e44d3d75c" }
